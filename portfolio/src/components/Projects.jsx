@@ -6,7 +6,7 @@ const projects = [
     desc: "Modern developer portfolio using React and Tailwind",
     tech: "React, Tailwind",
     github: "https://github.com/velpucherlasumanthreddy/portfolio.git",
-    live: "#",
+    live: "https://velpucherlasumanthreddy.github.io/portfolio/",
   },
    {
     title: "JS Calculator",
