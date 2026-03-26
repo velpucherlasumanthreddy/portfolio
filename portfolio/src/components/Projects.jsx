@@ -5,7 +5,7 @@ const projects = [
     title: " React Portfolio ",
     desc: "Modern developer portfolio using React and Tailwind",
     tech: "React, Tailwind",
-    github: "https://github.com/velpucherlasumanthreddy/react-portfolio.git",
+    github: "https://github.com/velpucherlasumanthreddy/portfolio.git",
     live: "#",
   },
    {
